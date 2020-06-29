@@ -1,10 +1,14 @@
 {
-    "name": "rsvpify/laravel-inky",
+    "name": "DominicVonk/laravel-inky",
     "description": "Foundation Inky email templates in Laravel",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "keywords": ["foundation", "inky", "laravel"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Dominic Vonk",
+            "email": "dominic@vonk.io"
+        },
         {
             "name": "Bryan Miller",
             "email": "bryan@kirschbaumdevelopment.com"
