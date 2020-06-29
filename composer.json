@@ -1,5 +1,5 @@
 {
-    "name": "DominicVonk/laravel-inky",
+    "name": "dominicvonk/laravel-inky",
     "description": "Foundation Inky email templates in Laravel",
     "version": "0.7.1",
     "keywords": ["foundation", "inky", "laravel"],
