@@ -50,7 +50,7 @@ class InkyCompiler extends Compiler implements CompilerInterface
 
     public function compileString($value)
     {
-        return $this->inky->releaseTheKraken($this->blade->compileString($value));
+        return $this->blade->compileString($this->inky->releaseTheKraken($value));
     }
 
     public function getFiles()
